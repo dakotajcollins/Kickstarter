@@ -10,8 +10,13 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 The StarterBookFinal.xlsx has some statistical analysis done through excel. You can read my findings in the word document.
 
 Sheet 1 contains conditional formating to show a visual difference in the state and the percent funded columns. 
+
 Sheet 2 contains a pivot table with a breakdown of the state of the kickstarter based on category.
+
 Sheet 3 contains something similar to sheet 2, but based on the subcategories.
+
 Sheet 4 contains success rates of kickstarters, but based on the time of year they were launched.
+
 Sheet 5 contains the percentage of successful, failed, or canceled kickstarters based on the goal amount.
+
 Sheet 6 contains an overview of the statistical breakdown of the kickstarters. 
